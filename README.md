@@ -37,6 +37,5 @@ I like building small products and research tools that force me to learn unfamil
 
 ## Connect
 
-- LinkedIn: [SanjeySelvendra](https://www.linkedin.com/in/sanjey-selvendra-581626326/)
 - Email: sanjeyselvendra8@gmail.com
 
