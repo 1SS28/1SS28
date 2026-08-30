@@ -1,7 +1,7 @@
 ## Hi, I'm Sanjey
 I'm a student at Wilfrid Laurier University studying Computer Science and Business Administration. I'm especially interested in math, competitive programming, software, and finance.
 
-I love making things that come to my head and exploring the capabilities of software, web development, and AI powered tools.
+I like building small products and research tools that force me to learn unfamiliar APIs, data formats, and application frameworks.
 
 ## Projects
 
@@ -10,6 +10,16 @@ I love making things that come to my head and exploring the capabilities of soft
 - Built on a self-hosted agent framework (OpenClaw) with three custom MCP servers I wrote for the Etsy, eBay, and file-transfer integrations
 - Full OAuth 2.0 (PKCE) across two marketplaces, plus a Cloudflare Worker for image hosting and eBay's compliance webhook
 - `Node.js` `MCP` `Claude API` `eBay/Etsy APIs` `Cloudflare Workers`
+
+### FilingDiff
+
+[View project](https://github.com/1SS28/FilingDiff)
+
+- Retrieves the two most recent 10-Q filings for supported companies using official SEC data
+- Handles older filing archives, validates SEC responses, and caches requests
+- Includes offline tests for selection logic, malformed data, and request failures
+- Current status: filing discovery is complete; document comparison is not yet implemented
+- `Python` `SEC EDGAR` `pytest`
 
 ### Stitch TaskbarBuddy
 
@@ -20,4 +30,5 @@ I love making things that come to my head and exploring the capabilities of soft
 - Transparent, always-on-top windowing with multi-monitor-safe positioning, login-on-startup, and cross-Space visibility for fullscreen apps
 - `Electron` `JavaScript` `HTML5 Canvas` `IPC`
 
-### Digital Journal
+
+
