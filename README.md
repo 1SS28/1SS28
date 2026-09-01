@@ -35,7 +35,7 @@ I like building small products and research tools that force me to learn unfamil
 
 ---
 
-## Connect
+## Contact
 
 - Email: sanjeyselvendra8@gmail.com
 
