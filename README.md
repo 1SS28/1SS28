@@ -32,7 +32,7 @@ Rebuilds an image out of overlapping triangles with no ML and no graphics librar
 
 ## At Magic Hour
 
-Open-source apps I build on Magic Hour's API as part of my internship.
+Open-source apps I've built on Magic Hour's API as part of my internship.
 
 - **[pod2video](https://github.com/1SS28/pod2video)** turns an audio podcast into vertical clips where the host lip-syncs to their real voice, for about $0.60 to $0.90 a clip. The [template repo](https://github.com/1SS28/pod2video-template) runs it on GitHub Actions: each new episode opens an issue with free previews, and you comment `/render 2 5` to get those clips.
 - **[Autonomous Listing Agent](https://github.com/1SS28/autonomous-listing-agent)**: text a product photo to a Telegram bot and it comes back as a live eBay listing. I wrote its three MCP servers (eBay, Etsy and file transfer), OAuth flows included. Etsy gets as far as a finished draft.
