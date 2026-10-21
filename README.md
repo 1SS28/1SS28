@@ -1,6 +1,6 @@
 ## Hi, I'm Sanjey
 
-I'm in first year at Wilfrid Laurier, doing a double degree in Computer Science and Business Administration. I'm also an API Growth Intern at [Magic Hour](https://magichour.ai) (YC W24), and an Expert on [Codeforces](https://codeforces.com/profile/SS28).
+I'm a first year student at Wilfrid Laurier, doing a double degree in Computer Science and Business Administration. I'm also an API Growth Intern at [Magic Hour](https://magichour.ai) (YC W24), and an Expert on [Codeforces](https://codeforces.com/profile/SS28).
 
 I like making what comes to my head.
 
