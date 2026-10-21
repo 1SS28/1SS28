@@ -2,7 +2,7 @@
 
 I'm in first year at Wilfrid Laurier, doing a double degree in Computer Science and Business Administration. I'm also an API Growth Intern at [Magic Hour](https://magichour.ai) (YC W24), and an Expert on [Codeforces](https://codeforces.com/profile/SS28).
 
-I like projects where I don't know how to do the hard part yet, whether that's a new API, a game's internals, or some geometry.
+I like making what comes to my head.
 
 ## Projects
 
