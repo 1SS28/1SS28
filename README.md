@@ -1,6 +1,6 @@
 ## Hi, I'm Sanjey
 
-I'm a first year student at Wilfrid Laurier, doing a double degree in Computer Science and Business Administration. I'm also an API Growth Intern at [Magic Hour](https://magichour.ai) (YC W24), and an Expert on [Codeforces](https://codeforces.com/profile/SS28).
+I'm a first year student at Wilfrid Laurier, doing a double degree in Computer Science and Business Administration. I'm also a Growth Engineering Intern at [Magic Hour](https://magichour.ai) (YC W24), and an Expert on [Codeforces](https://codeforces.com/profile/SS28).
 
 I like making what comes to my head.
 
@@ -14,7 +14,7 @@ Crash tests for AI agents. Faultline breaks a tool call partway through, like a 
 
 ### [GeoDashML](https://github.com/1SS28/GeoDashML)
 
-Teaching an RL agent to play Geometry Dash. I wrote a C++ mod that freezes the game and steps it one 240 Hz physics tick at a time, so Python can drive it as a Gymnasium environment. A search bot beats Stereo Madness in 3,956 attempts, and a PPO agent is learning the level backwards from that run. The lab notebook has every bug I hit along the way, a few of them in the game itself.
+Teaching an RL agent to play Geometry Dash. I wrote a C++ mod that freezes the game and steps it one 240 Hz physics tick at a time, so Python can drive it as a Gymnasium environment. A search bot beats Stereo Madness in 3,956 attempts, and a PPO agent trained backwards from that run has now beaten it too, after 183,634 attempts. The lab notebook has every bug I hit along the way, a few of them in the game itself.
 
 `C++` `Geode` `Python` `PyTorch` `Gymnasium`
 
